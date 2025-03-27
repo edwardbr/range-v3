@@ -25,9 +25,9 @@
 #include <range/v3/range_for.hpp>
 #include <range/v3/view/adaptor.hpp>
 #include <range/v3/view/facade.hpp>
-#include <range/v3/view/getlines.hpp>
+// #include <range/v3/view/getlines.hpp>
 #include <range/v3/view/interface.hpp>
-#include <range/v3/view/istream.hpp>
+// #include <range/v3/view/istream.hpp>
 #include <range/v3/view/subrange.hpp>
 
 #endif

@@ -43,13 +43,13 @@
 #include <range/v3/view/for_each.hpp>
 #include <range/v3/view/generate.hpp>
 #include <range/v3/view/generate_n.hpp>
-#include <range/v3/view/getlines.hpp>
+// #include <range/v3/view/getlines.hpp>
 #include <range/v3/view/group_by.hpp>
 #include <range/v3/view/indices.hpp>
 #include <range/v3/view/indirect.hpp>
 #include <range/v3/view/intersperse.hpp>
 #include <range/v3/view/iota.hpp>
-#include <range/v3/view/istream.hpp>
+// #include <range/v3/view/istream.hpp>
 #include <range/v3/view/join.hpp>
 #include <range/v3/view/linear_distribute.hpp>
 #include <range/v3/view/map.hpp>
@@ -78,7 +78,7 @@
 #include <range/v3/view/take_exactly.hpp>
 #include <range/v3/view/take_last.hpp>
 #include <range/v3/view/take_while.hpp>
-#include <range/v3/view/tokenize.hpp>
+// #include <range/v3/view/tokenize.hpp>
 #include <range/v3/view/transform.hpp>
 #include <range/v3/view/trim.hpp>
 #include <range/v3/view/unbounded.hpp>
